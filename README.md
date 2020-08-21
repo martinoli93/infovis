@@ -7,3 +7,7 @@
 * [week 33](https://martinoli93.github.io/infovis/w33.html)
 
 ## Historial de ubicaciones
+
+* [Historial de ubicaciones](https://martinoli93.github.io/infovis/Takeout.html)
+
+
