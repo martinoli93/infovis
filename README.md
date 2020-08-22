@@ -8,7 +8,7 @@
 
 ## Historial de ubicaciones
 
-* [Historial de ubicaciones](https://martinoli93.github.io/infovis/Takeout.html)
+* [Historial de ubicaciones](https://martinoli93.github.io/infovis/google.html)
 
 ## observable
 
