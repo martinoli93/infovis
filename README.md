@@ -10,4 +10,8 @@
 
 * [Historial de ubicaciones](https://martinoli93.github.io/infovis/Takeout.html)
 
+## observable
+
+* [Datos muertes Covid Argentina](https://martinoli93.github.io/infovis/observable.html)
+
 
