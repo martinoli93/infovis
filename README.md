@@ -14,4 +14,4 @@
 
 * [Datos muertes Covid Argentina](https://martinoli93.github.io/infovis/observable.html)
 
-
+[tp.](https://martinoli93.github.io/infovis/tp.html)
