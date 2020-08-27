@@ -17,4 +17,4 @@
 ## Tp datos personales 
 
 
-[Tp datos personales](https://martinoli93.github.io/infovis/tp.html)
+* [Tp datos personales](https://martinoli93.github.io/infovis/tp.html)
